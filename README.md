@@ -20,8 +20,7 @@
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [🔗 Some useful websites for programmers.](https://github.com/Uncodedtech/Best-websites-a-programmer-should-visit)
-* [30 seconds of code](https://github.com/Uncodedtech/30-seconds-of-code)
-* [You Dont Know JS](https://github.com/Uncodedtech/You-Dont-Know-JS)
+
 
 
 -------------------------------------------------------
