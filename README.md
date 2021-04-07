@@ -36,7 +36,7 @@
 * [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
-* [Developer Portfolio's](https://github.com/Uncodedtech/developer-portfolios)
+* [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
 
 ---------------------------------------------
 
