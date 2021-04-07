@@ -11,6 +11,7 @@
 * [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
 * [...Text to handwriting..](https://github.com/Uncodedtech/text-to-handwriting)
+* [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
