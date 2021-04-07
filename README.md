@@ -8,6 +8,7 @@
 * [🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/Uncodedtech/Amazing-Python-Scripts)
 * [🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/Uncodedtech/machine-learning-experiments)
 * [Automatically sync your leetcode solutions to your github...](https://github.com/Uncodedtech/LeetHub)
+* [React Suite, react components ](https://github.com/Uncodedtech/rsuite)
 * [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
 * [...Text to handwriting..](https://github.com/Uncodedtech/text-to-handwriting)
