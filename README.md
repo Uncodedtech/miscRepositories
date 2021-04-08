@@ -33,6 +33,7 @@
 * [1on1 questions](https://github.com/Uncodedtech/1on1-questions)
 * [#DevJoke. Submit a PR if you know a good dev joke.](https://github.com/Uncodedtech/devjoke)
 * [Computational-Intelligence-Papers](https://github.com/Uncodedtech/Computational-Intelligence-Papers)
+* [Algorithm Books](https://github.com/Uncodedtech/Free-Algorithm-Books-1)
 * [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
