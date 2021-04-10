@@ -37,6 +37,7 @@
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
+* [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
 
 ---------------------------------------------
 
