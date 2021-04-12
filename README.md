@@ -38,17 +38,17 @@
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
 * [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
+* [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
+* [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
 
 ---------------------------------------------
 
-### Other useful links/resources/youtube channels...
+### Other useful links...
 
 * [🔗 Some useful websites for programmers.](https://github.com/Uncodedtech/Best-websites-a-programmer-should-visit)
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
-
-
 
 -------------------------------------------------------
 
