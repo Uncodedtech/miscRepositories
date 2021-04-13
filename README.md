@@ -23,6 +23,7 @@
 * [...Text to handwriting..](https://github.com/Uncodedtech/text-to-handwriting)
 * [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
 * [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
+* [Web effects to integrate](https://github.com/Uncodedtech/awesome-web-effect)
 
 ---------------------------------------------
 
@@ -37,6 +38,7 @@
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
+* [Awesome landing page](https://github.com/Uncodedtech/awesome-landing-page)
 * [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
 * [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
 * [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
