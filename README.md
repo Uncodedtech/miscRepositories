@@ -43,6 +43,7 @@
 * [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
 * [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
 * [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
+* [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
 
 ---------------------------------------------
 
