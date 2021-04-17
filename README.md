@@ -53,6 +53,7 @@
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
+* [Study Abroad Funding website - wemakescholars](https://www.wemakescholars.com/)
 
 -------------------------------------------------------
 
