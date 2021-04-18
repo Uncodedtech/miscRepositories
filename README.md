@@ -14,7 +14,7 @@
 
 * [🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/Uncodedtech/Amazing-Python-Scripts)
 * [🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/Uncodedtech/machine-learning-experiments)
-* [Automatically sync your leetcode solutions to your github...](https://github.com/Uncodedtech/LeetHub)
+* [Leethub - Sync your leetcode solutions to your github...](https://github.com/Uncodedtech/LeetHub)
 * [Github metrics](https://github.com/Uncodedtech/metrics)
 * [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
@@ -24,6 +24,7 @@
 * [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
 * [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
 * [Web effects to integrate](https://github.com/Uncodedtech/awesome-web-effect)
+* [Tweet to image](https://github.com/Uncodedtech/tweet-to-image)
 
 ---------------------------------------------
 
@@ -44,6 +45,7 @@
 * [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
 * [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
 * [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
+* [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
 
 ---------------------------------------------
 
