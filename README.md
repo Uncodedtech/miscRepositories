@@ -47,6 +47,7 @@
 * [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
 * [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
 * [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
+* [Research Papers - website](https://myw3schools.github.io/) & you can also follow [manjunath5496](https://github.com/manjunath5496) for such of repos hosting papers. 
 
 ---------------------------------------------
 
