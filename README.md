@@ -20,7 +20,7 @@
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
 * [Screen to gif](https://github.com/Uncodedtech/ScreenToGif)
 * [Mail for good_email marketing management](https://github.com/Uncodedtech/mail-for-good)
-* [...Text to handwriting..](https://github.com/Uncodedtech/text-to-handwriting)
+* [Text to handwriting...](https://github.com/Uncodedtech/text-to-handwriting)
 * [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
 * [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
 * [Web effects to integrate](https://github.com/Uncodedtech/awesome-web-effect)
