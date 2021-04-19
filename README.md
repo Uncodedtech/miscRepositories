@@ -25,6 +25,10 @@
 * [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
 * [Web effects to integrate](https://github.com/Uncodedtech/awesome-web-effect)
 * [Tweet to image](https://github.com/Uncodedtech/tweet-to-image)
+* [Face recognition API for Py & CLI](https://github.com/Uncodedtech/face_recognition)
+* [Super resolution images using deep learning](https://github.com/Uncodedtech/neural-enhance)
+* [API request builder](https://github.com/Uncodedtech/hoppscotch)
+* [Vivek's Ubuntu Portfolio](https://github.com/Uncodedtech/vivek9patel.github.io)
 
 ---------------------------------------------
 
@@ -36,16 +40,14 @@
 * [#DevJoke. Submit a PR if you know a good dev joke.](https://github.com/Uncodedtech/devjoke)
 * [Computational-Intelligence-Papers](https://github.com/Uncodedtech/Computational-Intelligence-Papers)
 * [Algorithm Books](https://github.com/Uncodedtech/Free-Algorithm-Books-1)
-* [Resources for independent developers to make money](https://github.com/Uncodedtech/awesome-indie)
 * [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
 * [Awesome landing page](https://github.com/Uncodedtech/awesome-landing-page)
 * [tldr-cheatsheet for console commands](https://github.com/Uncodedtech/tldr)
-* [Bug bounty programs](https://github.com/Uncodedtech/public-bugbounty-programs)
-* [Bug bounty writeup & programs](https://github.com/Uncodedtech/awesome-bug-bounty)
 * [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
 * [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
+* [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
 
 ---------------------------------------------
 
@@ -55,8 +57,6 @@
 * [A curated list of awesome warez and piracy links](https://github.com/Uncodedtech/awesome-piracy)
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
-* [Study Abroad Funding website - wemakescholars](https://www.wemakescholars.com/)
-* [Vivek's Ubuntu Portfolio](https://github.com/Uncodedtech/vivek9patel.github.io)
 
 -------------------------------------------------------
 
