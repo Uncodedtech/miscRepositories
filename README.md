@@ -1,7 +1,6 @@
 # miscRepositories
 
-> **Miscellaneous repositories. It includes list of good projects, templates, references etc..**
-
+> **Miscellaneous repositories. It includes links to *forked* repositories which hold a list of good projects, templates, references etc..**
 
 ### Templates
 
@@ -58,7 +57,22 @@
 * [A curated list of awesome C++ (or C) frameworks, libraries, resources...](https://github.com/Uncodedtech/awesome-cpp)
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
 
--------------------------------------------------------
+------------------------------------------------------------------
+-----------------------------------------------
+
+## Maintainer
+
+* [Suraj Verma](https://github.com/surajv311)
+
+#### Parent repository
+* [one4All](https://github.com/Surajv311/one4All)
+
+## License
+
+* [MIT](LICENSE)
+
+---------------------------
+
 
 
 
