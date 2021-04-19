@@ -19,7 +19,7 @@
 * [Bringing Old Photo Back to Life (CVPR 2020 oral)](https://github.com/Uncodedtech/Bringing-Old-Photos-Back-to-Life)
 * [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/Uncodedtech/Real-Time-Voice-Cloning)
 * [Screen to gif](https://github.com/Uncodedtech/ScreenToGif)
-* [Mail for good_email marketing management](https://github.com/Uncodedtech/mail-for-good)
+* [Mail for good email marketing management](https://github.com/Uncodedtech/mail-for-good)
 * [Text to handwriting...](https://github.com/Uncodedtech/text-to-handwriting)
 * [Rotten Scripts](https://github.com/Uncodedtech/Rotten-Scripts)
 * [Medium clones-Realworld](https://github.com/Uncodedtech/realworld)
