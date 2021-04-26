@@ -48,6 +48,7 @@
 * [Can include in head of your document](https://github.com/Uncodedtech/HEAD)
 * [Collection of design idioms/patterns in Py](https://github.com/Uncodedtech/python-patterns)
 * [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
+* [What happens when](https://github.com/Uncodedtech/what-happens-when)
 
 ---------------------------------------------
 
