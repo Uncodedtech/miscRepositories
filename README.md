@@ -29,6 +29,7 @@
 * [API request builder](https://github.com/Uncodedtech/hoppscotch)
 * [Vivek's Ubuntu Portfolio](https://github.com/Uncodedtech/vivek9patel.github.io)
 * [App which corrects previous console command](https://github.com/Uncodedtech/thefuck)
+* [CSS-JS effects ~ (You don't need JS)](https://github.com/Uncodedtech/You-Dont-Need-JavaScript)
 
 ---------------------------------------------
 
