@@ -53,6 +53,7 @@
 * [Google's eng. practices](https://github.com/Uncodedtech/eng-practices)
 * [What happens when](https://github.com/Uncodedtech/what-happens-when)
 * [Digital Gardening](https://github.com/Uncodedtech/digital-gardeners)
+* [CSS Pro tips](https://github.com/Uncodedtech/css-protips)
 
 ---------------------------------------------
 
