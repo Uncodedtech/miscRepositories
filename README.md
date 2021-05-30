@@ -43,7 +43,7 @@
 * [#DevJoke. Submit a PR if you know a good dev joke.](https://github.com/Uncodedtech/devjoke)
 * [Computational-Intelligence-Papers](https://github.com/Uncodedtech/Computational-Intelligence-Papers)
 * [Algorithm Books](https://github.com/Uncodedtech/Free-Algorithm-Books-1)
-* [A graph of programming languages connected through compilers.](https://github.com/Uncodedtech/languages)
+* [A graph of programming languages connected through compilers](https://github.com/Uncodedtech/languages)
 * [📝 Today I Learned](https://github.com/Uncodedtech/til)
 * [Developer Portfolios](https://github.com/Uncodedtech/developer-portfolios)
 * [Awesome landing page](https://github.com/Uncodedtech/awesome-landing-page)
@@ -54,6 +54,7 @@
 * [What happens when](https://github.com/Uncodedtech/what-happens-when)
 * [Digital Gardening](https://github.com/Uncodedtech/digital-gardeners)
 * [CSS Pro tips](https://github.com/Uncodedtech/css-protips)
+* [Awesome Privacy - List of alternatives that respect your privacy](https://github.com/Uncodedtech/awesome-privacy)
 
 ---------------------------------------------
 
