@@ -56,6 +56,7 @@
 * [CSS Pro tips](https://github.com/Uncodedtech/css-protips)
 * [Awesome Privacy - List of alternatives that respect your privacy](https://github.com/Uncodedtech/awesome-privacy)
 * [Node.js best practices](https://github.com/Uncodedtech/nodebestpractices)
+* [Awesome Style guides](https://github.com/Uncodedtech/awesome-styleguides)
 
 ---------------------------------------------
 
