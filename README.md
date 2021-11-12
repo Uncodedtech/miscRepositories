@@ -32,6 +32,7 @@
 * [CSS-JS effects ~ (You don't need JS)](https://github.com/Uncodedtech/You-Dont-Need-JavaScript)
 * [Translate text to emoji](https://github.com/Uncodedtech/emoji-translate)
 * [Renovamen's MacOS Portfolio](https://github.com/Uncodedtech/playground-macos)
+* [List of various bug bounty tools](https://github.com/Uncodedtech/awesome-bugbounty-tools)
 
 ---------------------------------------------
 
