@@ -70,6 +70,7 @@
 * [😎 Awesome lists about all kinds of interesting topics](https://github.com/Uncodedtech/awesome)
 * [Delightful Node.js packages and resources](https://github.com/Uncodedtech/awesome-nodejs)
 * [Awesome Loginless](https://github.com/Uncodedtech/awesome-loginless)
+* [so-you-want-an-internship](https://github.com/Uncodedtech/so-you-want-an-internship)
 
 ------------------------------------------------------------------
 -----------------------------------------------
