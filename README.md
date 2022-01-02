@@ -60,6 +60,7 @@
 * [Awesome Style guides](https://github.com/Uncodedtech/awesome-styleguides)
 * [Distributed Deep Learning resources](https://github.com/Uncodedtech/Awesome-Distributed-Deep-Learning)
 * [List of public tech migrations](https://github.com/Uncodedtech/list-of-tech-migrations)
+* [Principles and Patterns for developers](https://github.com/Uncodedtech/hacker-laws)
 
 ---------------------------------------------
 
