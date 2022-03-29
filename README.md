@@ -74,6 +74,7 @@
 * [Awesome Loginless](https://github.com/Uncodedtech/awesome-loginless)
 * [so-you-want-an-internship](https://github.com/Uncodedtech/so-you-want-an-internship)
 * [Engineering Manager resource links](https://github.com/Uncodedtech/engineer-manager)
+* [Web3 resources](https://github.com/Uncodedtech/100-days-of-Web3)
 
 ------------------------------------------------------------------
 -----------------------------------------------
