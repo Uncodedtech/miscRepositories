@@ -75,6 +75,8 @@
 * [so-you-want-an-internship](https://github.com/Uncodedtech/so-you-want-an-internship)
 * [Engineering Manager resource links](https://github.com/Uncodedtech/engineer-manager)
 * [Web3 resources](https://github.com/Uncodedtech/100-days-of-Web3)
+* [How Web works?](https://github.com/Uncodedtech/how-web-works)
+* [Web Security Basics](https://github.com/Uncodedtech/web-security-basics?organization=Uncodedtech&organization=Uncodedtech)
 
 ------------------------------------------------------------------
 -----------------------------------------------
