@@ -78,6 +78,8 @@
 * [How Web works?](https://github.com/Uncodedtech/how-web-works)
 * [Web Security Basics](https://github.com/Uncodedtech/web-security-basics?organization=Uncodedtech&organization=Uncodedtech)
 * [Engineering Blogs](https://github.com/Uncodedtech/engineering-blogs)
+* [companies-sponsoring-visas](https://github.com/Uncodedtech/companies-sponsoring-visas)
+* [90DaysOfDevOps](https://github.com/Uncodedtech/90DaysOfDevOps)
 
 ------------------------------------------------------------------
 -----------------------------------------------
